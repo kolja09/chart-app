@@ -1,0 +1,14 @@
+.inputs-block {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.input-radio {
+  margin-right: 20px;
+}
+
+.input-radio input {
+  margin-right: 7px;
+  cursor: pointer;
+}
